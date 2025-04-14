@@ -1,4 +1,4 @@
-Gianmaria Saggini, Cristina Maria Rita Lombardo e Alessio Franchini
+### Alessio Franchini, Gianmaria Saggini, Cristina Maria Rita Lombardo
 
 # My Akiba 📚✨🎥
 
