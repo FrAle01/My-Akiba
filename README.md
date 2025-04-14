@@ -2,7 +2,7 @@ Gianmaria Saggini, Cristina Maria Rita Lombardo e Alessio Franchini
 
 # My Akiba 📚✨🎥
 
-Welcome to **My Akiba**, a Large Scale and Multi-Structured Databases project. My Akiba represents your go-to platform for tracking and discovering anime and manga! This application connects fans with shared tastes, providing recommendations, analytics, and social features in a sleek, user-friendly environment.
+Welcome to **My Akiba**, a Large Scale and Multi-Structured Database project. My Akiba represents your go-to platform for tracking and discovering anime and manga! This application connects fans with shared tastes, providing recommendations, analytics, and social features in a sleek, user-friendly environment.
 
 ## 🚀 Features
 
